@@ -1,11 +1,10 @@
-/* Genel Stil */
 body {
     font-family: Arial, sans-serif;
 }
 
-/* Navbar Stili */
+
 .navbar {
-    background-color: #f8f9fa; /* Navbar arka plan rengi */
+    background-color: #f8f9fa;
 }
 
 .navbar-brand {
@@ -13,17 +12,16 @@ body {
 }
 
 .nav-link {
-    color: #333; /* Navbar linkleri rengi */
+    color: #333;
 }
 
 .nav-link:hover {
-    color: #007bff; /* Navbar linkleri hover rengi */
+    color: #007bff;
 }
 
-/* Gönderi Kartı Stili */
 .card {
     margin-bottom: 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Kart gölgesi */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .card-title {
@@ -31,15 +29,16 @@ body {
 }
 
 .card-text {
-    color: #555; /* Kart metin rengi */
+    color: #555;
 }
 
 .btn-primary {
-    background-color: #007bff; /* Ana buton arka plan rengi */
-    border-color: #007bff; /* Ana buton kenarlık rengi */
+    background-color: #007bff;
+    border-color: #007bff;
 }
 
 .btn-primary:hover {
-    background-color: #0056b3; /* Ana buton hover arka plan rengi */
-    border-color: #0056b3; /* Ana buton hover kenarlık rengi */
+    background-color: #0056b3;
+    border-color: #0056b3;
 }
+
